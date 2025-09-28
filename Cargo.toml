@@ -5,6 +5,9 @@ edition = "2024"
 
 description = "Creates a batch from the frequency of the items in the array."
 license = "Apache-2.0"
+repository = "https://github.com/takanoriyanagitani/rs-arrow-array2freq2rbat"
+homepage = "https://github.com/takanoriyanagitani/rs-arrow-array2freq2rbat"
+documentation = "https://docs.rs/rs-arrow-array2freq2rbat/latest"
 keywords = ["arrow", "frequency", "count", "array"]
 
 [lints.rust]
